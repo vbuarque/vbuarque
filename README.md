@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Estudando Desenvolvimento de Software Multiplataforma FATEC-SJC
 - 🌱 Estudando: React, Typescript
-- 😄 Pronouns: ele/dele
+- 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
 
 <div align="center">
   <a href="https://github.com/vbuarque">
@@ -23,11 +23,9 @@
   
 ##
   
-<div> 
-  <a href="https://www.instagram.com/v3105.20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/faehisel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<div>
   <a href = "mailto:vbuarquegusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vinicius-buarque-de-gusm%C3%A3o-catonho-9b11911a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/vbuarque/vbuarque/blob/output/github-contribution-grid-snake.svg)
   
