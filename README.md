@@ -18,7 +18,7 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vini-pic" height="150" src="https://media.discordapp.net/attachments/267806328871845892/927941485704388638/vini-gif.gif">
+  <img align="right" alt="Vini-pic" height="150" src="https://cdn.discordapp.com/attachments/537785942728245269/951846931842355280/vini-gif.gif">
 </div>
   
 ##
