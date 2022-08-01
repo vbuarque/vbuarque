@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Estudando Desenvolvimento de Software Multiplataforma FATEC-SJC
-- 🌱 Estudando: React, Typescript
+- 🌱 Estudando: ReactJS, React Native, Typescript, HTML, CSS , JAVASCRIPT e alguns frameworks CSS  :D
 - 😄 Buscando sempre melhorar e aperfeiçoar meus conhecimentos
 
 <div align="center">
