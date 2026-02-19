@@ -17,10 +17,9 @@ Graduado em **Desenvolvimento de Software Multiplataforma pela FATEC São José 
 
 ### 📊 Estatísticas e Tecnologias:
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vbuarque&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbuarque&layout=compact&theme=dark" />
-</p>
+<div align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbuarque)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br/>
 
