@@ -18,8 +18,8 @@ Graduado em **Desenvolvimento de Software Multiplataforma pela FATEC São José 
 ### 📊 Estatísticas e Tecnologias:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbuarque&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbuarque&layout=compact&theme=dark" height="150" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vbuarque&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbuarque&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </div>
 
 <br/>
