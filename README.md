@@ -41,7 +41,7 @@ Graduado em **Desenvolvimento de Software Multiplataforma pela FATEC São José 
   <a href="https://vb-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com">
+  <a href="mailto:viniciusbuarque17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
